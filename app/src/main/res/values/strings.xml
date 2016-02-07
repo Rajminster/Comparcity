@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Comparcity</string>
+    <string-array name="marital_status">
+        <item>Single</item>
+        <item>Married</item>
+        <item>Head of Household</item>
+    </string-array>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling2">Comparcity Report</string>
+</resources>
